@@ -1,2 +1,2 @@
-# CPSC-471
-Uofc Cpsc 471
+# CPSC-471 Database
+Uofc Cpsc 471 Database
